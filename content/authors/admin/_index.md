@@ -1,7 +1,7 @@
 ---
 title: Mohammad Kazemi
 role: PhD Candidate in Geospatial Sciences
-avatar_filename: 11.jpg
+avatar_filename: 22.jpg
 bio: My research interests include GIScience, Geospatial Question Answering
   Systems, Geospatial NLP
 interests:
