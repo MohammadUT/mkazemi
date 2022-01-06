@@ -41,9 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mohammad is a PhD student at the department of Geospatial Sciences, RMIT University, Australia. His current field of research is focusing on designing a Geo Question Answering (GeoQA) system that takes a user’s GIS-related domain question, understands how to gather the required data, how to analyse it, and how to present the results in a suitable format. Research interests are GeoQA, Geospatial Natural Language Processing, geospatial semantics, workflow synthesis composition.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
