@@ -37,7 +37,7 @@ education:
       year: 2016
     - course: BSc in Geomatics Engineering
       institution: Babol University of Technology
-      year: 2011
+      year: 2013
 email: ""
 superuser: true
 highlight_name: true
