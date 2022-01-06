@@ -1,42 +1,43 @@
 ---
 title: Mohammad Kazemi
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: PhD Candidate of Geospatial Sciences
+avatar_filename: photo_2021-11-15_10-04-33.jpg
+bio: My research interests include GIScience, Geospatial Question Answering
+  Systems, Geospatial NLP
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - GISciece
+  - GeoQA
+  - NLP
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/mkazemiB
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=fsk-azYAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/MohammadUT
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mkazemib/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: RMIT University
+    url: https://www.rmit.edu.au/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Candidate in Geospatial Sciences
+      institution: RMIT University
+      year: ""
+    - course: M.Sc. in Geospatial Information Science (GIS)
+      institution: University of Tehran
+      year: 2016
+    - course: BSc in Geomatics Engineering
+      institution: Babol University of Technology
+      year: 2011
 email: ""
 superuser: true
 highlight_name: true
