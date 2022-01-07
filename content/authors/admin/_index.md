@@ -6,7 +6,7 @@ bio: My research interests include GIScience, Geospatial Question Answering
   Systems, Geospatial NLP
 interests:
   - GISciece
-  - GeoQA
+  - Geospatial Question Answering (GeoQA)
 social:
   - icon: envelope
     icon_pack: fas
