@@ -48,7 +48,7 @@ publication_short: In *GIScience 2021*
 url_source: ""
 url_video: ""
 title: "Geo-Event Question Answering Systems: A Preliminary Research Study"
-doi: ""
+doi: 10.25436/E2KW2T
 featured: false
 tags: []
 projects: []
