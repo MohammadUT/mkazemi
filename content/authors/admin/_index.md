@@ -1,7 +1,7 @@
 ---
 title: Mohammad Kazemi
 role: PhD Candidate in Geospatial Sciences
-avatar_filename: 22.jpg
+avatar_filename: https://ibb.co/VtPbkmg
 bio: My research interests include GIScience, Geospatial Question Answering
   Systems, Geospatial NLP
 interests:
@@ -47,6 +47,6 @@ I am currently a PhD candidate at the Department of Geospatial Sciences at RMIT 
 
 My current field of research is focusing on designing a Geospatial Question Answering (GeoQA) system that takes a user’s GIS-related domain question, understands how to gather the required data, how to analyse it, and how to present the results in a suitable format. 
 
-My current research focuses on answering qualitave spatial questions based upon qualitative spatial reasoning framework.
+My current research focuses on answering qualitative spatial questions based upon qualitative spatial reasoning framework.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
