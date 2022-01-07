@@ -49,7 +49,7 @@ url_source: ""
 url_video: ""
 title: "Geo-Event Question Answering Systems: A Preliminary Research Study"
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
