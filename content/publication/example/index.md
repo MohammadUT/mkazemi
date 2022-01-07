@@ -49,7 +49,7 @@ url_source: ""
 url_video: ""
 title: "Geo-Event Question Answering Systems: A Preliminary Research Study"
 doi: ""
-featured: false
+featured: true
 tags: []
 projects:
   - example
@@ -59,7 +59,7 @@ image:
   preview_only: false
 date: 2021-09-30T02:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
