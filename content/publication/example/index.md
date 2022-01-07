@@ -13,7 +13,7 @@ abstract: Designing a Geospatial Question Answering (GeoQA) system that takes a
   space and provide more structured solutions. The results of this research
   provide a step towards the implementation of a geo-event QA system capable of
   answering diverse geo-event questions defined by users.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -51,8 +51,7 @@ title: "Geo-Event Question Answering Systems: A Preliminary Research Study"
 doi: ""
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
