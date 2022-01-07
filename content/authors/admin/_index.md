@@ -7,7 +7,6 @@ bio: My research interests include GIScience, Geospatial Question Answering
 interests:
   - GISciece
   - GeoQA
-  - ""
 social:
   - icon: envelope
     icon_pack: fas
