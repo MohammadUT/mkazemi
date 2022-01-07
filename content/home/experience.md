@@ -6,7 +6,6 @@ experience:
   - title: Tutor of Geospatial Programming Course
     company: RMIT University
     company_url: ""
-    company_logo: RMIT
     location: Melbourne
     date_start: 2021-07-01
     date_end: 2021-10-30
