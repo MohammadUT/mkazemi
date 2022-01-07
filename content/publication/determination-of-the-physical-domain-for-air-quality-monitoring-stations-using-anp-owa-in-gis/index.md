@@ -49,7 +49,7 @@ abstract: Air pollution is a major concern in some megacities of Iran. Specific
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2022-01-07T15:21:58.108Z
