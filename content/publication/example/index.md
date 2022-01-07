@@ -23,8 +23,10 @@ authors:
   - Amy Griffin
   - Vedran Kasalica
 author_notes:
-  - Equal contribution
-  - Equal contribution
+  - RMIT University
+  - RMIT University
+  - RMIT University
+  - Utrecht University
 publication: In *International Conference on Geographic Information Science*
 summary: ""
 url_dataset: ""
