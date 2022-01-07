@@ -6,8 +6,7 @@ bio: My research interests include GIScience, Geospatial Question Answering
   Systems, Geospatial NLP
 interests:
   - GISciece
-  - GeoQA
-  - NLP
+  - GeospatialQuestion
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,7 +31,7 @@ education:
     - course: PhD Candidate in Geospatial Sciences
       institution: RMIT University
       year: ""
-    - course: M.Sc. in Geospatial Information Science (GIS)
+    - course: MSc in Geospatial Information Science (GIS)
       institution: University of Tehran
       year: 2016
     - course: BSc in Geomatics Engineering
