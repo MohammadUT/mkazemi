@@ -41,7 +41,9 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am currently a PhD candidate at the Department of Geospatial Sciences at RMIT University under the supervision of Prof. Matt Duckham and Dr. Amy Griffin. My current field of research is focusing on designing a Geospatial Question Answering (GeoQA) system that takes a user’s GIS-related domain question, understands how to gather the required data, how to analyse it, and how to present the results in a suitable format. 
+I am currently a PhD candidate at the Department of Geospatial Sciences at RMIT University under the supervision of Prof. Matt Duckham and Dr. Amy Griffin. 
+
+My current field of research is focusing on designing a Geospatial Question Answering (GeoQA) system that takes a user’s GIS-related domain question, understands how to gather the required data, how to analyse it, and how to present the results in a suitable format. 
 
 My research interests are GeoQA, Geospatial Natural Language Processing, geospatial semantics, and qualitative spatial reasoning.
 
