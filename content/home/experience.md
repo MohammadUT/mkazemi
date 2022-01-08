@@ -49,7 +49,7 @@ experience:
     company_url: https://www.landsurveys.net.au/
     location: Perth
     date_start: 2019-08-01
-    date_end: 2019-12-1
+    date_end: 2019-12-01
     description: |-2
         Responsibilities include:
         
@@ -62,7 +62,7 @@ experience:
     company_url: https://www.pdnco.ir
     location: Tehran, Iran
     date_start: 2018-02-01
-    date_end: 2019-06-1
+    date_end: 2019-06-01
     description: |-2
         Responsibilities include:
         
@@ -74,7 +74,7 @@ experience:
     company_url: http://www.sadjad.ac.ir/MainEn.aspx
     location: Mashhad, Iran
     date_start: 2017-01-01
-    date_end: 2017-06-1
+    date_end: 2017-06-01
     description: Lecturing GIS, Surveying, and Photogrammetry
 
 design:
