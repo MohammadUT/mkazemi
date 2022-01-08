@@ -36,7 +36,7 @@ experience:
     company_url: http://www.handleysurveys.com.au/contact/
     location: Perth, Australia
     date_start: 2019-12-01
-    date_end: 2020-5-31
+    date_end: 2020-05-31
     description: |-2
         Responsibilities include:
         
