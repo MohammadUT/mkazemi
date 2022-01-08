@@ -5,16 +5,18 @@ date_format: Jan 2006
 experience:
   - title: Tutor of Geospatial Programming Course
     company: RMIT University
-    company_url: ""
+    company_url: https://www.rmit.edu.au/
     location: Melbourne
     date_start: 2021-07-01
     date_end: 2021-10-30
     description: |-2
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Working closely with the course coordinator
+        * Covering parts of live sessions and disscusion board during intensive week.
+        * Actively monitoring and answering students' technical questions on Piazza and Canvas froum.
+        * Marking assignments and final project
+
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ""
