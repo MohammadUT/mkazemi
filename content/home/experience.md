@@ -1,6 +1,11 @@
 ---
 widget: experience
 active: true
+widget_id: Experience
+headless: true
+weight: 40
+title: Experience
+subtitle: null
 date_format: Jan 2006
 experience:
   - title: Tutor of Geospatial Programming Course
@@ -25,11 +30,7 @@ experience:
     date_start: 2016-01-01
     date_end: 2020-12-31
     description: Taught electronic engineering and researched semiconductor physics.
-widget_id: Experience
-headless: true
-weight: 40
-title: Experience
-subtitle: null
+
 design:
   columns: "2"
 ---
