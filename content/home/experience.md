@@ -20,6 +20,7 @@ experience:
         
         * Parsing, and extracting papers for the list of authors from dblp
         * Assigning CORE.edu values to the paper lists using fuzzy string matching. 
+        
   - title: Tutor of Geospatial Programming Course
     company: RMIT University
     company_url: https://www.rmit.edu.au/
