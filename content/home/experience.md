@@ -14,7 +14,7 @@ experience:
         
         * Working closely with the course coordinator
         * Covering parts of live sessions and disscusion board during intensive week.
-        * Actively monitoring and answering students' technical questions on Piazza and Canvas froum.
+        * Actively tracking and answering students' technical questions on Piazza and Canvas forums.
         * Marking assignments and final project
 
   - title: Professor of Semiconductor Physics
